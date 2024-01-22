@@ -1,3 +1,3 @@
-Blocks.coreShard.unitCapModifier = 275;
-Blocks.coreFoundation.unitCapModifier = 750;
-Blocks.coreNucleus.unitCapModifier = 1500;
+Blocks.coreShard.unitCapModifier = 16;
+Blocks.coreFoundation.unitCapModifier = 48;
+Blocks.coreNucleus.unitCapModifier = 64;
